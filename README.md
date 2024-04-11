@@ -2,6 +2,18 @@
 
 Neste repositorio contém o projeto realizado no evento NLW Unite da Rockeseat. O objetivo desse projeto é permitir que um participante se cadastre em um evento. Tendo a opção do cliente passar o nome e email para gerar o ticket de evento ou escrever o codigo dele para ir para a tela do ingresso. Caso o usuario já tenha se cadastrado ao entrar no aplicativo, ele será redirecionado imediatamente para a tela da credencial. Também será gerado um link para poder compartilhar o ingresso.
 
+Junto com esse projeto foi usada backend da nlw unite da trilha de node, estando o repositorio dele nesse [link](https://github.com/rocketseat-education/nlw-unite-nodejs).
+
+## Layout
+
+![Tela credencial](https://github.com/miguelAngeloSantana/NLW-Unite-React-Native/blob/main/Layout/Tela-Credencial.png)
+
+
+![Tela login](https://github.com/miguelAngeloSantana/NLW-Unite-React-Native/blob/main/Layout/Tela-Login.png)
+
+
+![Tela ingresso](https://github.com/miguelAngeloSantana/NLW-Unite-React-Native/blob/main/Layout/Tela-Ingresso.png)
+
 ## Funções do aplicativo
 1. Evitar que um email invalido seja cadastrado ou o mesmo email seja cadastrado duas vezes.
 2. Evitar que um codigo invalido seja usado para acessar o ingresso.
